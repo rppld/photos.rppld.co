@@ -23,7 +23,7 @@
     "@typescript-eslint/eslint-plugin": "4.x",
     "@typescript-eslint/parser": "4.x",
     "babel-eslint": "10.x",
-    "cypress": "^7.2.0",
+    "cypress": "^8.0.0",
     "eslint": "7.x",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-react-app": "^6.0.0",
